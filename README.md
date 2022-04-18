@@ -6,8 +6,7 @@ Olá!
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhugors&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-##   
+##  Aqui você pode entrar em contato comigo ⬇️
 <a href="https://www.linkedin.com/in/patrickhugo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:patrickhugors@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-##
-  
+
