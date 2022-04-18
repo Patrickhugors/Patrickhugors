@@ -1,4 +1,4 @@
-<font size="20">"Olá, seja bem vindo(a) ao meu portifólio digital. Aqui você poderá ter uma visão geral sobre mim e sobre o meu trabalho."</font>
+<p><font size="6">Olá, seja bem vindo(a) ao meu portifólio digital. Aqui você poderá ter uma visão geral sobre mim e sobre o meu trabalho.</font></p>
 
 <div align="center">
   <a href="https://github.com/patrickhugors">
