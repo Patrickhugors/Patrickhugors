@@ -1,4 +1,4 @@
-Olá, seja bem vindo(a) ao meu portifólio digital. Aqui você poderá ter uma visão geral sobre mim e sobre o meu trabalho.
+<font size="6">Olá, seja bem vindo(a) ao meu portifólio digital. Aqui você poderá ter uma visão geral sobre mim e sobre o meu trabalho.</font>
 
 <div align="center">
   <a href="https://github.com/patrickhugors">
