@@ -4,7 +4,7 @@ Olá, seja bem vindo(a) ao meu portifólio digital. Aqui você poderá ter uma v
   <a href="https://github.com/patrickhugors">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=patrickhugors&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
     
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhugors&layout=compact&langs_count=100&theme=prussian"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhugors&layout=compact&langs_count=150&theme=prussian"/>
 </div> 
   
 ## Por aqui você pode entrar em contato comigo.
